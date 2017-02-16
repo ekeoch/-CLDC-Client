@@ -1,0 +1,5 @@
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\bin\Release\[CLDC]Client.exe
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\bin\Release\[CLDC]Client.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Release\[CLDC]Client.csprojResolveAssemblyReference.cache
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Release\[CLDC]Client.exe
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Release\[CLDC]Client.pdb

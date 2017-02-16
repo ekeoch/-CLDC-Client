@@ -1,0 +1,10 @@
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Client\[CLDC]Client\bin\Debug\[CLDC]Client.exe
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Client\[CLDC]Client\bin\Debug\[CLDC]Client.pdb
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Debug\[CLDC]Client.exe
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Debug\[CLDC]Client.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Debug\[CLDC]Client.exe
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Debug\[CLDC]Client.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\bin\Debug\[CLDC]Client.exe
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\bin\Debug\[CLDC]Client.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Client\[CLDC]Client\obj\x86\Debug\[CLDC]Client.csprojResolveAssemblyReference.cache
